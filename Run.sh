@@ -1,10 +1,9 @@
 #!/usr/bin/env bash
 
 clear
-echo -e "\e[4;31m Panda Hackers !!! \e[0m"
-echo -e "\e[1;32m Presents \e[0m"
+echo -e "\e[4;31m Yıkık Uğur \e[0m"
 echo -e "\e[1;34m"
-figlet -f slant Anon-SMS
+figlet -f slant Yıkık-SMS
 echo "Press Enter To Launch"
 read a1
 if [[ -s update.pandahackers ]];then
