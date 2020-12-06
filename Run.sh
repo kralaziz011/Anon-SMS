@@ -6,7 +6,7 @@ echo -e "\e[1;32m Presents \e[0m"
 echo -e "\e[1;34m"
 figlet -f slant Anon-SMS
 echo "Press Enter To Launch"
-read a1
+read 
 if [[ -s update.pandahackers ]];then
 echo "All Requirements Found...."
 else
